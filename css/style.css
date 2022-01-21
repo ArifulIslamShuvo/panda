@@ -1,0 +1,25 @@
+.panda-bg{
+    background-color: #fceae8;
+}
+.btn-common-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.common-h1{
+    color: #ff4891;
+}
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-bag{
+    background-color: #da70d6;
+}
+.bg-shoes{
+    background-color: #0000ff;
+}
+.xy-p-carosel{
+    padding: 80px 40px;
+}
